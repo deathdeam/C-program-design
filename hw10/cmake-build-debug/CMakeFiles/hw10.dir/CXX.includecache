@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/Desktop/algorithm/c++/homework/hw10/main.cpp
+iostream
+-
+string
+-
+map
+-
+iterator
+-
+algorithm
+-
+
